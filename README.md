@@ -1,4 +1,7 @@
+
 🚗 Automotive Data Analytics - Dashboard Plano de Veículos
+![Preview do Dashboard](imagemcarros.png)
+
 Este projeto consiste em uma solução de Business Intelligence desenvolvida para otimizar a análise de frotas e a tomada de decisão em negociações automotivas. O dashboard transforma dados brutos em insights estratégicos sobre valor de mercado (FIPE), depreciação e margens de economia.
 
 🚀 Tecnologias e Competências
